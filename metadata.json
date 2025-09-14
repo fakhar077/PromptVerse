@@ -1,0 +1,5 @@
+{
+  "name": "PromptVerse",
+  "description": "An AI Viral Image Gallery where trending AI-generated images from social media are displayed. Users can browse, click any image, and reveal the exact AI prompt that generated it.",
+  "requestFramePermissions": []
+}
